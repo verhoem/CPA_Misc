@@ -1,0 +1,15 @@
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\bin\Release\CPA Database Utils.exe.manifest
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\bin\Release\CPA Database Utils.application
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\bin\Release\CPA Database Utils.exe
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\bin\Release\CPA Database Utils.pdb
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\bin\Release\CPA Database Utils.xml
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\ResolveAssemblyReference.cache
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA_Database_Utils.Form1.resources
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA_Database_Utils.Resources.resources
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\GenerateResource.read.1.tlog
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\GenerateResource.write.1.tlog
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA Database Utils.exe.manifest
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA Database Utils.application
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA Database Utils.exe
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA Database Utils.xml
+K:\cpa_svn\code\CPA Database Utils\CPA Database Utils\obj\x86\Release\CPA Database Utils.pdb

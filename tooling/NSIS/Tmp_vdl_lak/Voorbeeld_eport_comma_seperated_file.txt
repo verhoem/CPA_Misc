@@ -1,0 +1,23 @@
+MeasureID,BTG,BRG,ORG,OTG,NOM,MeasureValue,MeasureTime,MainProces,SubProces,Param,Remark,Sigma,CP,CPK
+302,6,4000001,6,1999998,5,4,8000002,5,5999999,6,2014-03-25 19:26:00,Voorbehandeling,Ontvetting,Puntensterkte,,,,
+303,34,32,26,24,29,30,2014-03-25 19:34:00,Lakken Hal 2,D708,Visco,,,,
+304,34,32,26,24,29,27,2014-03-25 19:35:00,Lakken Hal 2,D708,VSG (Vastestof gehalte),,,,
+305,6,4000001,6,1999998,5,4,8000002,5,5999999,6,2014-03-25 19:38:00,Voorbehandeling,Ontvetting,Puntensterkte,,,,
+306,17,15,10,8,12,5,13,2014-03-25 19:38:00,Voorbehandeling,Beits,Puntensterkte,,,,
+307,26,24,2,1,13,5,2014-03-25 19:38:00,Voorbehandeling,Beits,Ijzergehalte,,,,
+308,6,4000001,6,1999998,5,4,8000002,5,5999999,5,8000002,2014-03-25 20:22:00,Voorbehandeling,Ontvetting,Puntensterkte,,9,4280817E-2,2,8284297,1,6499175
+309,17,15,10,8,12,5,14,2014-03-25 20:22:00,Voorbehandeling,Beits,Puntensterkte,,,,
+310,26,24,2,1,13,19,2014-03-25 20:22:00,Voorbehandeling,Beits,Ijzergehalte,,,,
+311,6,4000001,6,1999998,5,4,8000002,5,5999999,4,8000002,2014-03-25 20:33:00,Voorbehandeling,Ontvetting,Puntensterkte,test,0,49749365,0,53602022,0,50251895
+312,17,15,10,8,12,5,11,2014-03-25 20:33:00,Voorbehandeling,Beits,Puntensterkte,,1,2472191,1,2026756,1,1581321
+313,26,24,2,1,13,20,2014-03-25 20:33:00,Voorbehandeling,Beits,Ijzergehalte,,6,8475461,0,60849047,0,55169803
+314,288,240,0,5,0,1,1,96,2014-03-25 20:43:00,Zoutneveltest,FTOB2096,Uren eerste rode roest,,,,
+315,2,1,9,0,30000001,0,1,0,5,1,5,2014-03-25 20:44:00,Zoutneveltest,FTOB2096,% rode roest na 240 uur,,,,
+316,6,4000001,6,1999998,5,4,8000002,5,5999999,5,4000001,2014-03-25 20:44:00,Voorbehandeling,Ontvetting,Puntensterkte,,0,45607013,0,58470541,0,58470535
+317,17,15,10,8,12,5,12,5,2014-03-25 20:44:00,Voorbehandeling,Beits,Puntensterkte,,1,0825318,1,3856406,1,3471507
+318,26,24,2,1,13,18,2014-03-25 20:45:00,Voorbehandeling,Beits,Ijzergehalte,,6,1032777,0,68269324,0,57346237
+319,2,1,9,0,30000001,0,1,0,5,0,2,2014-03-25 20:57:00,Zoutneveltest,FTOB2096,% rode roest na 240 uur,test,,,
+320,6,4000001,6,1999998,5,4,8000002,5,5999999,5,0999999,2014-03-25 20:58:00,Voorbehandeling,Ontvetting,Puntensterkte,,0,45613104,0,58462727,0,52372855
+321,17,15,10,8,12,5,12,6,2014-03-25 20:58:00,Voorbehandeling,Beits,Puntensterkte,,0,96829748,1,5491108,1,5078011
+322,26,24,2,1,13,8,2014-03-25 20:58:00,Voorbehandeling,Beits,Ijzergehalte,,6,2289648,0,66891801,0,64216131
+323,34,32,26,24,29,30,2014-03-25 21:07:00,Lakken Hal 2,D708,VSG (Vastestof gehalte),,,,

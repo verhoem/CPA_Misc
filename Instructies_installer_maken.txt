@@ -1,0 +1,35 @@
+Laatste installer:
+
+\Desktop\CPA\cpa_svn\cpa_svn\deliverables\procesbeheerCPA8007install
+
+tooling cpa_svn\tooling\NSIS
+
+nsi bestand 
+
+Readme.txt niet vergeten !!
+
+Resource hacker -> cpa8007.exe
+
+Menu -> action -> replace icon 
+Icon file Desktop\CPA\cpa_svn\cpa_svn\resources\cpa_iconsCPA16.32.48.64.256cols.ico
+
+
+orange heap for obfusicating
+
+config <?xml version="1.0" encoding="utf-8"?>
+<config>
+  <options>
+    <source path="C:\temp\non-obfusicated\" />
+    <out path="C:\temp\obfusicated\" />
+    <report path="" />
+    <encryption enabled="true" />
+    <merge enabled="false" />
+    <publicProcessing enabled="true" />
+    <namespaceProcessing enabled="true" />
+    <renameEngine name="Normal" />
+  </options>
+  <items mode="Ignore" />
+</config>
+
+
+
